@@ -11,6 +11,7 @@ Frontend GUI Manager for CryTek's CryEngine 3
 <b>Usage</b> 
 - Copy "Proxy.exe" to your "CryEngine/Tools" folder
 
+
 <b>License / Notes:</b>
 I'm a freshman at Wright State University looking to be a Tools Engineer/ Technical Artist, pursuing a BS in 
 Computer Science. You are free to use and modify the source code in any free or commercial application, all I ask 
